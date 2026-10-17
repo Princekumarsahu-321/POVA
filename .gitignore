@@ -18,3 +18,8 @@ logs/
 build/
 dist/
 *.spec
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
