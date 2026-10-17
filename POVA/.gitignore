@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+logs/
+screenshots/*
+!screenshots/.gitkeep
+config/local*
+.env
+.pytest_cache/
+.vscode/
+build/
+dist/
+*.spec
